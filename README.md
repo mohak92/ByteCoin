@@ -3,6 +3,7 @@
 Track bitcoin rate in your favorite currency.
 
 ## Screenshots
+![](screenshot/bytecoin.gif)
 
 ## Requirements
 * macOS
